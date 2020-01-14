@@ -17,3 +17,5 @@ docker run \
     --env NEO4J_dbms_security_procedures_unrestricted=algo\.\* \
     neo4j:latest
 ```
+
+This image is also available in docker hub, please see: https://hub.docker.com/repository/docker/arramanenka/dumpster
